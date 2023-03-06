@@ -1,0 +1,71 @@
+Action : 
+
+2D Fighter,
+Action,
+Action RPG,
+Action Adventure,
+Arena Shooter,
+Battle Royale,
+Beat 'em up,
+Bullet hell,
+Character Action Game,
+FPS,
+Fast-Paced,
+Fighting,
+Hack and Slash,
+Heist,
+MOBA,
+Metroidvania,
+On-Rails Shooter,
+Parkour,
+PvP,
+Rogue-like,
+Rogue-lite,
+Shoot 'Em Up,
+Shooter,
+Sniper,
+Souls-like,
+Spectacle fighter,
+Stealth,
+Swordplay,
+Third-Person Shooter,
+Top-Down Shooter
+Twin Stick Shooter
+
+Role-Playing
+
+Action RPG
+CRPG
+Choose Your Own Adventure
+Class-Based
+Crafting
+Dating Sim
+Grid-Based Movement
+JRPG
+MMORPG
+MOBA
+Metroidvania
+Mining
+Party-Based RPG
+RPG
+RPGMaker
+Rogue-like
+Rogue-lite
+Souls-like
+Strategy RPG
+Tactical RPG
+Turn-Based
+Turn-Based Combat
+Turn-Based Strategy
+Turn-Based Tatics
+
+Adventure:
+
+Action-Adventure
+Adventure
+Assassin
+Batman
+Choose Your Own Adventure
+
+
+
