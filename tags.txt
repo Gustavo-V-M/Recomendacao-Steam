@@ -61,11 +61,63 @@ Turn-Based Tatics
 
 Adventure:
 
+3D Platformer
 Action-Adventure
 Adventure
 Assassin
 Batman
 Choose Your Own Adventure
+Comic Book
+Dark Fantasy
+Detective Dinosaurs
+Dragons
+Dungeon Crawler
+Dungeons & Dragons
+Epic
+Fantasy
+God Game
+Hack and Slash
+Illuminati 
+Lara Croft
+MMORPG
+Multiple Endings
+Mystery Dungeon
+Mythology
+Parkour
+Platformer
+Rogue-like
+Rogue-lite
+Souls-like
+Story Rich
+Superhero
+Time Manipulation
+Time Travel
+Warhammer 40K
 
+Casual
+
+3D Platformer
+4 Player Local
+Agriculture
+Animation & Modeling
+Arcade
+Atmospheric
+Audio Production
+Benchmark
+Board Game
+Card Game
+Cartoon
+Cartoony
+Casual
+Clicker
+Comedy
+Conversation
+Dating sim
+Design & Illustration
+Dog
+Education
+Funny
+Game Development
+GameMaker
 
 
