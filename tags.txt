@@ -1,39 +1,37 @@
-Action : 
-
-2D Fighter,
-Action,
-Action RPG,
-Action Adventure,
-Arena Shooter,
-Battle Royale,
-Beat 'em up,
-Bullet hell,
-Character Action Game,
-FPS,
-Fast-Paced,
-Fighting,
-Hack and Slash,
-Heist,
-MOBA,
-Metroidvania,
-On-Rails Shooter,
-Parkour,
-PvP,
-Rogue-like,
-Rogue-lite,
-Shoot 'Em Up,
-Shooter,
-Sniper,
-Souls-like,
-Spectacle fighter,
-Stealth,
-Swordplay,
-Third-Person Shooter,
+Action:
+2D Fighter
+Action
+Action RPG
+Action Adventure
+Arena Shooter
+Battle Royale
+Beat 'em up
+Bullet hell
+Character Action Game
+FPS
+Fast-Paced
+Fighting
+Hack and Slash
+Heist
+MOBA
+Metroidvania
+On-Rails Shooter
+Parkour
+PvP
+Rogue-like
+Rogue-lite
+Shoot 'Em Up
+Shooter
+Sniper
+Souls-like
+Spectacle fighter
+Stealth
+Swordplay
+Third-Person Shooter
 Top-Down Shooter
 Twin Stick Shooter
 
-Role-Playing
-
+Role-Playing:
 Action RPG
 CRPG
 Choose Your Own Adventure
@@ -60,7 +58,6 @@ Turn-Based Strategy
 Turn-Based Tatics
 
 Adventure:
-
 3D Platformer
 Action-Adventure
 Adventure
@@ -94,8 +91,7 @@ Time Manipulation
 Time Travel
 Warhammer 40K
 
-Casual
-
+Casual:
 3D Platformer
 4 Player Local
 Agriculture
@@ -119,5 +115,171 @@ Education
 Funny
 Game Development
 GameMaker
+LEGO
+Lemmings
+Match 3
+Memes
+Minimalist
+Parody
+Photo Editing
+Pinball
+Point & Click
+Programming
+Relaxing
+Runner
+Spelling
+Utilities
 
+Sports & Racing:
+BMX
+Baseball
+Basketball
+Bikes
+Board Game
+Bowling
+Chess
+Cycling
+Driving
+Fishing
+Football
+Golf
+Hunting
+Mini Golf
+Offroad
+Runner
+Sailing
+Skaterboarding
+Skating
+Sports
+Soccer
+Tennis
+Trading Card Game
+Wrestling
+Motocross
+Motorbike
+Snowboarding
 
+Simulation & Strategy:
+America
+Board Game
+Building
+Capitalism
+Card Game
+City Builder
+Clicker
+Conversation
+Crafting
+Detective
+Diplomacy
+Documentary
+Dystopian
+Economy
+Flight
+Gambling
+Game Development
+Grand Strategy
+Interactive Fiction
+Investigation
+Logic
+Management
+Mining
+Naval
+Physics
+Political
+Politics
+Programming
+Puzzle
+Puzzle-Platformer
+Real-Time
+Realistic
+Resource Management
+Rhythm
+Sailing
+Sandbox
+Simulation
+Space Sim
+Walking Simulator
+Wargame
+
+Historical & Historic Fantasy:
+1980s'
+1990's
+Alternate History
+America
+Cold War
+Documentary
+Historical
+Dark Fantasy
+Dystopian
+Fantasy
+Gothic
+Illuminati
+Mythology
+Medieval
+Military
+Naval
+Pirates
+Realistic
+Rome
+Submarine
+Tanks
+Trains
+Wargame
+Werewolves
+Western
+World War I
+World War II
+Zombies
+
+Fictional Fantasy:
+Anime
+Assassin
+Cartoon
+Cyberpunk
+Comic Book
+Dark
+Dark Fantasy
+Demons
+Dragons
+Dungeons & Dragons
+Dystopian
+Epic
+Fantasy
+God Game
+Gothic
+Horror
+Interactive Fiction
+JRPG
+Lovecraftian
+Magic
+Ninja
+Post-apocalyptic
+Supernatural
+Time Travel
+
+Sci-fi:
+Aliens
+Alternate History
+Cyberpunk
+Dark
+Dystopian
+Fantasy
+Futuristic
+Gun Customization
+Hacking
+Mars
+Mechs
+Metroidvania
+Military
+Post-apocalyptic
+Robots
+Sci-fi
+Science
+Software
+Space
+Space Sim
+Star Wars
+Steampunk
+Time Manipulation
+Time Travel
+Warhammer 40K
